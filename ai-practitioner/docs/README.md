@@ -1,14 +1,11 @@
-# docs — AI Practitioner notes
+# docs
 
-Notes and domain summaries for AIF-C01.
+Official AWS pages for the AI Practitioner exam outline and related docs.
 
-| File | Contents |
-|------|----------|
-| [overview.md](overview.md) | What the exam covers and how I study it |
-| [domains.md](domains.md) | All five domains with weights and task statements |
-| [domain-1-ai-ml-fundamentals.md](domain-1-ai-ml-fundamentals.md) | Domain 1 notes |
-| [domain-2-genai-fundamentals.md](domain-2-genai-fundamentals.md) | Domain 2 notes |
-| [domain-3-foundation-models.md](domain-3-foundation-models.md) | Domain 3 notes |
-| [domain-4-responsible-ai.md](domain-4-responsible-ai.md) | Domain 4 notes |
-| [domain-5-ai-security.md](domain-5-ai-security.md) | Domain 5 notes |
-| [capabilities.md](capabilities.md) | Capability-by-capability study cards |
+- [AWS Certified AI Practitioner](https://aws.amazon.com/certification/certified-ai-practitioner/)
+- [AIF-C01 exam guide (HTML)](https://docs.aws.amazon.com/aws-certification/latest/ai-practitioner-01/ai-practitioner-01.html)
+- [AIF-C01 exam guide (PDF)](https://docs.aws.amazon.com/pdfs/aws-certification/latest/ai-practitioner-01/ai-practitioner-01.pdf)
+- [All AWS Certification exam guides](https://docs.aws.amazon.com/aws-certification/latest/examguides/aws-certification-exam-guides.html)
+- [AWS Documentation home](https://docs.aws.amazon.com/)
+- [AWS Whitepapers & Guides](https://aws.amazon.com/whitepapers/)
+- [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)

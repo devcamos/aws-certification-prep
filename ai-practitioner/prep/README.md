@@ -1,9 +1,9 @@
-# prep — study plan and practice
+# prep
 
-| File | Contents |
-|------|----------|
-| [study-plan.md](study-plan.md) | Week-by-week plan toward 13 Nov 2026 |
-| [readiness-checklist.md](readiness-checklist.md) | External readiness gate |
-| [practice-questions.md](practice-questions.md) | Domain checkpoints and capability questions |
-| [practice-bank/](practice-bank/) | Larger practice bank by domain |
-| [weak-spots.md](weak-spots.md) | Error log template |
+Official AWS exam prep links for AIF-C01 (no local question banks or study plans).
+
+- [Prepare for an AWS Certification exam](https://aws.amazon.com/certification/certification-prep/)
+- [AWS Skill Builder](https://skillbuilder.aws/)
+- [Exam Prep hub on Skill Builder](https://skillbuilder.aws/exam-prep)
+- [Exam Prep: AWS Certified AI Practitioner (AIF-C01)](https://skillbuilder.aws/category/exam-prep/ai-practitioner-AIF-C01)
+- [AWS Training](https://aws.amazon.com/training/)

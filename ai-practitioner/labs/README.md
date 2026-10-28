@@ -1,10 +1,8 @@
-# labs — hands-on practice
+# labs
 
-Short exercises. Keep each one small enough to finish in one sitting.
+Official AWS hands-on labs and workshops (use your own sandbox account).
 
-| File | Focus |
-|------|-------|
-| [exercises.md](exercises.md) | Capability builds and break drills |
-| [capstone.md](capstone.md) | Grounded assistant design brief |
-
-I do not need a fancy stack. Notes, a sandbox AWS account, and simple code are enough.
+- [AWS Workshop Studio catalog](https://catalog.workshops.aws/)
+- [AWS Getting Started hands-on tutorials](https://aws.amazon.com/getting-started/hands-on/)
+- [Immersive learning (Cloud Quest and related)](https://aws.amazon.com/training/digital/immersive-learning/)
+- [AWS Skill Builder](https://skillbuilder.aws/)

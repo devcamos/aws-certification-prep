@@ -1,4 +1,4 @@
-# How to book — AI Practitioner
+# How to book
 
 ## My booking
 
@@ -8,21 +8,9 @@
 - Length: 100 minutes
 - Check in from 7:00am
 
-## Useful links
+## Official AWS links
 
 - [AWS Certified AI Practitioner](https://aws.amazon.com/certification/certified-ai-practitioner/)
-- [Exam guide](https://docs.aws.amazon.com/aws-certification/latest/ai-practitioner-01.html)
-- [Schedule / manage exams (AWS Training)](https://www.aws.training/)
-- [Pearson VUE / OnVUE](https://home.pearsonvue.com/)
-
-## Before exam day
-
-- Confirm the appointment email and OnVUE system check
-- Have ID ready that matches the booking name
-- Clear the desk / room for online proctoring
-- Know the check-in window (from 7:00am for this booking)
-
-## After the exam
-
-- Save the score report
-- If I pass, claim the Credly badge when it appears
+- [AIF-C01 exam guide](https://docs.aws.amazon.com/aws-certification/latest/ai-practitioner-01/ai-practitioner-01.html)
+- [AWS Certification](https://aws.amazon.com/certification/)
+- [AWS Certification FAQs](https://aws.amazon.com/certification/faqs/)

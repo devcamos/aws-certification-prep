@@ -1,12 +1,13 @@
-# How to book — Cloud Practitioner
+# How to book
 
-Already completed.
+## Result
 
 - Exam: AWS Certified Cloud Practitioner (CLF-C02)
-- Result: passed
-- Credly badge: earned Feb 2025
+- Status: Passed Feb 2025
 
-## Links (for reference)
+## Official AWS links
 
-- [Exam guide](https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html)
-- [AWS certification](https://aws.amazon.com/certification/)
+- [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+- [CLF-C02 exam guide](https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html)
+- [AWS Certification](https://aws.amazon.com/certification/)
+- [AWS Certification FAQs](https://aws.amazon.com/certification/faqs/)
